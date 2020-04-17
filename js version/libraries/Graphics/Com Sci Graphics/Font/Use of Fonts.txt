@@ -1,0 +1,13 @@
+The fonts used in this software are intended for private use. 
+The software is distributed privately and is intended for private use.
+Neither the fonts nor the software were sold for money.
+
+
+
+The following is for the font "Exo-MediumItalic"
+
+The fonts were taken from <https://fonts.google.com> where they explicitly state that all their fonts in their library
+are free and open-source. As said in <https://fonts.google.com/about> "All the fonts in our catalog are free and open 
+source, [...] accessible to anyone for any project" and "Google Fonts takes care of all the licensing and hosting".
+In <https://developers.google.com/fonts/>, under the subtitle, "Free to use", it states that "You can use them in any 
+non-commercial or commercial project".
