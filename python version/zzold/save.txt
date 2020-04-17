@@ -1,0 +1,1 @@
+{'score': 0, 'coins': 9970090, 'ship': 5, 'dmgLvl': 1, 'dmgBought': 15, 'dmgCost': 100, 'damage': 50, 'firerateLvl': 2, 'firerateBought': 45, 'firerateCost': 2300, 'fireDelay': 300, 'gunsLvl': 'max', 'gunsBought': 315, 'gunsCost': 1400, 'guns': 1, 'spLvl': 1, 'spBought': 15, 'spCost': 100, 'sp': 1, 'dropLvl': 1, 'dropBought': 15, 'dropCost': 100, 'drops': 1}
